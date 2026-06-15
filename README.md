@@ -209,11 +209,8 @@ Airbnb-NYC-Analysis/
 
 ## Dashboard Preview
 
-Add a screenshot of your Power BI dashboard here after uploading it to the repository.
-
-```markdown
 ![Dashboard Preview](powerbi/dash.jpg)
-```
+
 
 ---
 
