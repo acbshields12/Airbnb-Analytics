@@ -191,15 +191,15 @@ Airbnb-NYC-Analysis/
 ├── excel/
 │   └── airbnb_datasheet.xlsx
 │
-├── sql/
-│   └── queries.sql
+├── powerbi/
+│   ├── dash.pbix
+│   └── dash.jpg
 │
 ├── python/
 │   └── airbnb_analysis.ipynb
 │
-├── powerbi/
-│   ├── dash.pbix
-│   └── dash.jpg
+├── sql/
+│   └── queries.sql
 │
 ├── README.md
 
