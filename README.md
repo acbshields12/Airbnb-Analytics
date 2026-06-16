@@ -194,6 +194,7 @@ Airbnb-NYC-Analysis/
 ├── powerbi/
 │   ├── dash.pbix
 │   └── dash.jpg
+│   └── dash.pdf
 │
 ├── python/
 │   └── airbnb_analysis.ipynb
@@ -201,7 +202,7 @@ Airbnb-NYC-Analysis/
 ├── sql/
 │   └── queries.sql
 │
-├── README.md
+└── README.md
 
 ```
 
